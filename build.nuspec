@@ -10,6 +10,6 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A null implementation of the LoggerBase class</description>
     <copyright>Copyright 2013</copyright>
-    <tags>DAL</tags>
+    <tags>LoggerBase</tags>
   </metadata>
 </package>
