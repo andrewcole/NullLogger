@@ -39,7 +39,7 @@
                   AssemblyCopyright="Copyright © Illallangi Enterprises 2013"
                   ComVisible="false"
                   AssemblyInformationalVersion="Built from hash '$(GitCommitHash)'"
-                  Guid="01635a92-4a4c-4578-ba8e-a4d7278ab433"
+                  Guid="d2a18e0a-a448-4ba4-b68f-f4850fcd702b"
                   AssemblyVersion="$(Version)"
                   AssemblyFileVersion="$(Version)"
                   Condition="$(Version) != '0.0.0.1'" />
