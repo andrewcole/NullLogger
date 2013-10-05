@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Illallangi.NullLogger</id>
+    <version>$version$</version>
+    <title>Null Logger</title>
+    <authors>Illallangi Enterprises</authors>
+    <owners>Illallangi Enterprises</owners>
+    <projectUrl>http://illallangi.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A null implementation of the LoggerBase class</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>DAL</tags>
+  </metadata>
+</package>
